@@ -4,11 +4,11 @@ https://api.github.com/users/Klaasbuilder/repos
 
 ---
 
-connecting_the_dots Private
+connecting_the_dots
 ---
-zbc401 Private
+zbc401
 ---
-abapgit Private
+abapgit
 ---
-abap-turtle-graphics-master Private
+abap-turtle-graphics-master
 ---
